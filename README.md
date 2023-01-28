@@ -23,6 +23,7 @@ Step 4: Print result.
 #Program to find the inverse of a matrix.
 #Developed by: K.NIVETHA
 #RegisterNumber:22009186
+
 import numpy as np
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
@@ -30,6 +31,8 @@ inverse=np.linalg.inv(A)
 print(inverse)
 ```
 ## Output:
+![maths 3 inv](https://user-images.githubusercontent.com/119559844/215285801-808d7495-ca3c-43b8-84f8-e9a5d4e78c8b.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
